@@ -1,0 +1,26 @@
+#products{
+    display: flex;
+}
+.product{
+    width: 33.33%;
+    text-align: center;
+    
+}
+.product img{
+    width: 50%;
+    
+}
+
+
+#carts{
+    border: 1px solid gold;
+    
+}
+.productlist{
+    display: flex;
+    
+}
+
+ .productImage{
+    width: 33.33%;
+}
